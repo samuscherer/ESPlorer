@@ -8,6 +8,8 @@ ESPlorer
 ### Package Description
 The essential multiplatforms tools for any ESP8266 developer from luatool author’s, including a LUA for NodeMCU and MicroPython. Also, all AT commands are supported.
 
+This fork is intended to provide a simpler GUI so that the usage in schools is possible.
+
 Required [JAVA](http://java.com/download) (Standard Edition - SE ver 7 and above) installed.
 
 ### Supported platforms
